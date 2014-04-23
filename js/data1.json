@@ -1,0 +1,70 @@
+[
+	{"name": "Andhra Pradesh", 
+	 "data": 
+			[ { "year": "2001" ,
+				 "value": 343 	
+				},
+				{ "year": "2002" ,
+				 "value": 345	
+				},
+				{ "year": "2003" ,
+				 "value": 345	
+				},
+				{ "year": "2004" ,
+				 "value": 21	
+				},
+				{ "year": "2005" ,
+				 "value": 56 	
+				},
+				{ "year": "2006" ,
+				 "value": 67 	
+				}
+			]
+	},
+
+	{"name": "Uttar Pradesh", 
+	 "data": 
+			[ { "year": "2001" ,
+				 "value": 23 	
+				},
+				{ "year": "2002" ,
+				 "value": 45 	
+				},
+				{ "year": "2003" ,
+				 "value": 34 	
+				},
+				{ "year": "2004" ,
+				 "value": "" 	
+				},
+				{ "year": "2005" ,
+				 "value": "" 	
+				},
+				{ "year": "2006" ,
+				 "value": "" 	
+				}
+			]
+	},	
+	
+	{"name": "Madhya Pradesh", 
+	 "data": 
+			[ { "year": "2001" ,
+				 "value": "" 	
+				},
+				{ "year": "2002" ,
+				 "value": "" 	
+				},
+				{ "year": "2003" ,
+				 "value": "" 	
+				},
+				{ "year": "2004" ,
+				 "value": "" 	
+				},
+				{ "year": "2005" ,
+				 "value": "" 	
+				},
+				{ "year": "2006" ,
+				 "value": "" 	
+				}
+			]
+	}
+]
